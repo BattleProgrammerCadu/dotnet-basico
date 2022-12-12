@@ -1,0 +1,15 @@
+D:\workspace\dotnet\basico\bin\Debug\net7.0\basico.exe
+D:\workspace\dotnet\basico\bin\Debug\net7.0\basico.deps.json
+D:\workspace\dotnet\basico\bin\Debug\net7.0\basico.runtimeconfig.json
+D:\workspace\dotnet\basico\bin\Debug\net7.0\basico.dll
+D:\workspace\dotnet\basico\bin\Debug\net7.0\basico.pdb
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.csproj.AssemblyReference.cache
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.AssemblyInfoInputs.cache
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.AssemblyInfo.cs
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.dll
+D:\workspace\dotnet\basico\obj\Debug\net7.0\refint\basico.dll
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.pdb
+D:\workspace\dotnet\basico\obj\Debug\net7.0\basico.genruntimeconfig.cache
+D:\workspace\dotnet\basico\obj\Debug\net7.0\ref\basico.dll
